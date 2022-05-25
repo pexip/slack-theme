@@ -2,7 +2,7 @@
 
 <p align="center">A <a href="https://slack.com" target="_blank">Slack</a> theme based upon the <a href="https://pexip.com" target="_blank">Pexip</a> colors.</p>
 
-# Setting the theme
+# 🎨 Setting the theme
 
 **Slack docs**: [Change your Slack theme](https://slack.com/intl/en-gb/help/articles/205166337-Change-your-Slack-theme)
 
