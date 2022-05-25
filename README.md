@@ -12,4 +12,4 @@ To install, go to `Preferences` -> `Themes` and then paste the following into th
 #0A2136,#3B4252,#FF7273,#0A2136,#1E3A54,#F7F7F7,#0EBEC7,#FF7273,#0A2136,#F7F7F7
 ```
 
-<p align="center"><img src="Theme Preview.jpg"/></a></p>
+<p align="center"><img src="Theme Preview.png"/></a></p>
